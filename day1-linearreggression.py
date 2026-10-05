@@ -28,7 +28,7 @@ size = [[size_in_nums]]
 # breakpoint()
 print(size)
 prediction = model.predict(size)
-
+ 
 print("House size:", size[0][0], "sqft")
 print("Predicted price:", prediction[0], "lakhs")
 

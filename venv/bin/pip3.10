@@ -1,4 +1,4 @@
-#!/home/labuser/Desktop/Project/ai-learning/venv/bin/python3
+#!/home/labuser/Desktop/Project/ai-ml-journey/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
